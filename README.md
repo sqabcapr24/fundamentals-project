@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Fundamentals Project
+## Core Lesson on Fundamental Concepts
 
-*Default Structure for A Basic Project*
+*Project which focuesses on core Java concepts*
 
 **Java 8**
 
